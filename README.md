@@ -4,7 +4,7 @@ spring-security-test
 ### User Schema
 
 ```sql test2111111111111111111111111
-CREATE DATABASE `spring-security-test`;
+CREATE DATABASE `spring-security-test111111111`;
 USE `spring-security-test`;
 
 CREATE TABLE `users` (
