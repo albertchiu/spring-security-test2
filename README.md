@@ -3,7 +3,7 @@ spring-security-test
 
 ### User Schema
 
-```sql test2
+```sql test2111111111111111111111111
 CREATE DATABASE `spring-security-test`;
 USE `spring-security-test`;
 
